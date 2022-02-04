@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  *
- * @author Aditi
+ * @author Aditi  Feb 04/02/2022
  */
 public class PartTimeStudent extends Student 
 {
