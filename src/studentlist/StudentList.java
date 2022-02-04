@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author DELL
+ * @author Aditi
  */
 public class StudentList {
 
