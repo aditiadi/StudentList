@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Aditi
+ * @author DELL
  */
 public class StudentList {
 
@@ -21,8 +21,7 @@ public class StudentList {
         
         Scanner input = new Scanner(System.in);
         
-        //Changed array size to 4
-        Student[] students = new Student[4];
+        Student[] students = new Student[3];
         
         System.out.println("Enter student names");
         
