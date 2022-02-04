@@ -28,4 +28,10 @@ public class PartTimeStudent extends Student
     {
         this.numCourses = numCourses;
     }
+    
+    public void printInfo()
+    {
+      System.out.println("My name is Aditi..");
+      System.out.println("I am an international student");
+    } 
 }
